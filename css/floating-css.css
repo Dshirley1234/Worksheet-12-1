@@ -1,0 +1,25 @@
+.p1 {
+    float:left;
+    background-color: aquamarine;
+    border: 5px;
+    width:300px;
+    border-color: black;
+    border-style: solid;
+}
+
+.p2 {
+    float:right;
+    background-color:darkorchid;
+    width:300px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+.p3 {
+    background-color: rgb(234, 12, 149);
+}
+
+html{
+    background-color: darksalmon;
+}
