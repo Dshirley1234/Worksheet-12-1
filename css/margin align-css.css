@@ -1,0 +1,37 @@
+.p1 {
+    margin:auto;
+    border:2px black solid;
+    width:75%;
+    background-color: darkslateblue;
+    color:aliceblue
+}
+.p2 {
+    margin:auto;
+    border:2px black solid;
+    width:50%;
+    background-color: rgba(212, 235, 13, 0.929);
+}
+.p3 {
+    margin:auto;
+    border:2px black solid;
+    width:100%;
+    background-color: greenyellow;
+}
+.p4 {
+    margin:auto;
+    border:2px black solid;
+    width:10%;
+    background-color: rgb(224, 47, 255);
+}
+/*this will determine how big the margins will be*/
+
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+/*aligning the text*/
